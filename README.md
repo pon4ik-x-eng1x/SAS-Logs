@@ -12,7 +12,9 @@ Installation
 Download the latest version of the plugin (SASLogs.jar).
 Place the .jar file into your server's plugins directory.
 Restart your server.
-Usage
+
+Usage:
+
 The plugin works automatically after installation.
 Log entries will be saved in:
 /plugins/SASLogs/logs.txt
@@ -22,10 +24,12 @@ Example log file:
 28.11.24 13:16:25 - Server loaded
 28.11.24 16:06:01 - Server stops
 28.11.24 16:06:21 - Server stopped
-Requirements
+
+Requirements:
+
 Minecraft server software:
 Spigot, Paper, or compatible forks.
 Tested on version 1.21.1.
 Java 17 or newer.
-Support
+
 If you encounter any issues, feel free to reach out! 😊

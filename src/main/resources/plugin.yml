@@ -1,0 +1,4 @@
+name: SASLogs
+version: 1.0
+main: com.saslogs.SASLogsPlugin
+api-version: 1.13
